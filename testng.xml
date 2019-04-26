@@ -3,7 +3,7 @@
 <suite name="Default Suite" parallel="classes" thread-count="3">
 <test name="Selenium_day1">
 <classes>
-<class name="test"/>
+<class name="Open"/>
 </classes>
         </test>
         </suite>
